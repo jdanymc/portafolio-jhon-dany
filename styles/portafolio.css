@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.contenido{
+    width: 960px;
+}
+header{
+    background-image: url(..//img/image-1.png);
+    background-size: cover;
+    height: 450px;
+}
+.acerca{
+    background-color: #7299FE;
+}
